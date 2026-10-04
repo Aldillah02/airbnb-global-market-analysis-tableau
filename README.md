@@ -1,3 +1,9 @@
+## Data Source
+
+The dataset used in this project was obtained from Kaggle:
+https://www.kaggle.com/datasets/ashishjangra27/airbnb-dataset
+
+The dataset contains Airbnb listing information from multiple countries, including pricing, ratings, location, and property-related attributes.
 # airbnb-global-market-analysis-tableau
 Tableau project analyzing Airbnb listings, prices, ratings, and geographic distribution across countries.
 # Airbnb Global Market Analysis | Tableau
